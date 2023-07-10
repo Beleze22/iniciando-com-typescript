@@ -1,5 +1,3 @@
-import { validateHeaderName } from "http";
-
 let nome: string = "Gustavo";
 console.log(nome);
 
