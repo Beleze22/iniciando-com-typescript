@@ -9,4 +9,8 @@
 // import "./tipos/uniao";
 // import "./tipos/never";
 // import "./tipos/null";
-import "./tipos/desafio_final";
+// import "./tipos/desafio_final";
+// import "./oo/classe_01";
+// import "./oo/classe_02";
+// import "./oo/classe_03";
+import "./oo/classe_04";
