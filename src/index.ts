@@ -13,4 +13,6 @@
 // import "./oo/classe_01";
 // import "./oo/classe_02";
 // import "./oo/classe_03";
-import "./oo/classe_04";
+// import "./oo/classe_04";
+// import "./oo/classe_04_outro";
+import "./oo/classe_05";
