@@ -15,4 +15,7 @@
 // import "./oo/classe_03";
 // import "./oo/classe_04";
 // import "./oo/classe_04_outro";
-import "./oo/classe_05";
+// import "./oo/classe_05";
+// import "./oo/desafio_estatico";
+// import "./interfaces/usuario";
+import "./interfaces/flexivel";
