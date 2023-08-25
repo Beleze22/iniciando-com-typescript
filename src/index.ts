@@ -18,4 +18,8 @@
 // import "./oo/classe_05";
 // import "./oo/desafio_estatico";
 // import "./interfaces/usuario";
-import "./interfaces/flexivel";
+// import "./interfaces/flexivel";
+// import "./pilares_oo/encapsulamento";
+// import "./pilares_oo/heranca_1";
+// import "./pilares_oo/heranca_2";
+import "./pilares_oo/heranca_3";
